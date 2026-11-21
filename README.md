@@ -10,11 +10,6 @@
 
 ---
 
-## 📌 EXECUTIVE DASHBOARD PREVIEW
-![Executive KPI Scorecard](Visualizations/01_executive_kpi_summary.png)
-
----
-
 ## 📖 PROJECT OVERVIEW & BUSINESS CONTEXT
 
 In recurring subscription models (SaaS, Telecom, Cloud Services), customer retention is the single most critical driver of company valuation and cash-flow health. While customer acquisition demands heavy capital expenditure (CAC), **customer churn directly destroys Monthly Recurring Revenue (MRR) and compresses Customer Lifetime Value (CLV)**.
