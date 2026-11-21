@@ -374,10 +374,3 @@ jupyter notebook Python/exploratory_analysis.ipynb
 
 ---
 
-## 👤 AUTHOR & CONTACT
-**Senior Data Analyst & Analytics Engineer**  
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com)  
-- **Portfolio:** [Your GitHub Profile](https://github.com)  
-- **Email:** your.email@domain.com  
-
-*Project built with standard industry best practices for enterprise presentation, technical interviews, and portfolio showcasing.*
